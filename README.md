@@ -4,7 +4,7 @@ Collection Of FontAndColorThemes and some customized themes
 
 My Favorite one is Indore which is a customization of Midnight Theme.
 
-![Indore](Indore.png?raw=true "Sufi")
+![Indore](indore.png?raw=true "Indore")
 
 
 ### Installation
